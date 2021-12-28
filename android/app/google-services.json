@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "412699641881",
+    "project_id": "aplikasilaporan-83624",
+    "storage_bucket": "aplikasilaporan-83624.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:412699641881:android:54d0d4739817a2acacc288",
+        "android_client_info": {
+          "package_name": "com.bastilla.aplikasilaporan"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "412699641881-43430bdd6sd58a9vub7msbo1i1d8sp4g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDjnH0IfS9c-iyPPTEG2wVn_eoPxUxdD14"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "412699641881-43430bdd6sd58a9vub7msbo1i1d8sp4g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
